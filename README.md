@@ -59,7 +59,7 @@ This repository contains the code and resources for an Anti-Spoof Face Recogniti
 
 - A log file be automatically generated about the logins and logout
 
-```md
+```markdown
 CV-11-AttendanceSytsem_AntiSpoofing
 ├─ .git
 ├─ .gitignore
