@@ -59,7 +59,7 @@ This repository contains the code and resources for an Anti-Spoof Face Recogniti
 
 - A log file be automatically generated about the logins and logout
 
-```markdown
+```
 CV-11-AttendanceSytsem_AntiSpoofing
 ├─ .git
 ├─ .gitignore
@@ -75,7 +75,6 @@ CV-11-AttendanceSytsem_AntiSpoofing
 │  └─ snapshot
 │     └─ Anti_Spoofing_1_80x80
 ├─ Silent-Face-Anti-Spoofing-master
-│  ├─ .gitignore
 │  ├─ datasets
 │  │  └─ README.md
 │  ├─ images
@@ -84,15 +83,6 @@ CV-11-AttendanceSytsem_AntiSpoofing
 │  │  ├─ logo.jpg
 │  │  ├─ patch_demo.png
 │  │  ├─ sample
-│  │  │  ├─ image_F1.jpg
-│  │  │  ├─ image_F1_result.jpg
-│  │  │  ├─ image_F2.jpg
-│  │  │  ├─ image_F2_result.jpg
-│  │  │  ├─ image_T1.jpg
-│  │  │  └─ image_T1_result.jpg
-│  │  ├─ 设置阈值.png
-│  │  └─ 静默活体APK.jpeg
-│  ├─ LICENSE
 │  ├─ my_test.py
 │  ├─ README.md
 │  ├─ README_EN.md
