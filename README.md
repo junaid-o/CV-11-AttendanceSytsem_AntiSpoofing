@@ -1,5 +1,8 @@
 # CV-11--FaceAttendance_with_Anti_Spoofing
 
+PYTHON=3.10.12
+
+
 
 ```
 CV-11-AttendanceSytsem_AntiSpoofing
