@@ -1,6 +1,12 @@
 # Anti-Spoof Face Recognition Based Attendance System
 
-PYTHON=3.10.12
+
+![Python 3.10.12](https://img.shields.io/badge/python-3.10.12-blue.svg)
+![Static Badge](https://img.shields.io/badge/FaceRecognition-purple.svg)
+![Static Badge](https://img.shields.io/badge/Silent_Face_AntiSpoofing-black.svg)
+![Static Badge](https://img.shields.io/badge/TKinter-blue.svg)
+
+
 
 This repository contains the code and resources for an Anti-Spoof Face Recognition Attendance System. The system uses computer vision techniques to prevent spoofing attempts during face recognition, ensuring the accuracy and security of attendance records.
 
